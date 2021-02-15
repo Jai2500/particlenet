@@ -1,5 +1,5 @@
 # ParticleNet
-A simple Implementation of ParticleNet in Pytorch Geometric. This implementation was made in collaboration with [Animesh Sinha](https://github.com/AnimeshSinha1309) and [Kalp Shah](https://github.com/Blizzard57). 
+A simple Implementation of ParticleNet ([arXiv](https://arxiv.org/abs/1902.08570)) in Pytorch Geometric. This implementation was made in collaboration with [Animesh Sinha](https://github.com/AnimeshSinha1309) and [Kalp Shah](https://github.com/Blizzard57). 
 
 Please cite our Github Implementation (Repo) if you plan to use this code in your research work. 
 
