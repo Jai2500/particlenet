@@ -16,7 +16,7 @@ Please cite our Github Implementation (Repo) if you plan to use this code in you
 
 ```
 @misc{PointNet_Pyg,
-  author = {Jai Bardhan, Animesh Sinha, Kalp Shah},
+  author = {Jai Bardhan and Animesh Sinha and Kalp Shah},
   title = {ParticleNet PyTorch Geometric},
   year = {2021},
   publisher = {GitHub},
